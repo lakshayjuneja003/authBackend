@@ -1,0 +1,19 @@
+{
+  "name": "authbackend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
